@@ -1,4 +1,4 @@
-Alguns dos meus projetos mais simples feitos com o maravilhoso framework Laravel!
+Alguns dos meus projetos públicos feitos com o maravilhoso framework Laravel!
 
 **NaloNews:**
   Um agregador de notícias, utiliza-se a Api [NewsApi](https://newsapi.org/)
