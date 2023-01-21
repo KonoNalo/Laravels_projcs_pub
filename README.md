@@ -1,3 +1,9 @@
 Alguns dos meus projetos mais simples feitos com o maravilhoso framework Laravel!
 
-http://moviedle.000webhostapp.com/
+**NaloNews:**
+  Um agregador de notícias, utiliza-se a Api ![NewsApi](https://newsapi.org/)
+
+**MovieDle:**
+  Um jogo onde se deve adivinhar o nome do filme com a visualização de algumas partes do seu poster utiliza-se a Api ![TMDb](https://www.themoviedb.org/)
+  <br>![Link Para Teste](http://moviedle.000webhostapp.com/)
+
